@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Administrator\source\repos\MY PROJECT\MY SOFTWARE\MemoryScanner\build\MemoryScanner\MemoryScanner_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\source\repos\MY PROJECT\MY SOFTWARE\MemoryScanner\MemoryScanner\MemoryScanner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\source\repos\MY PROJECT\MY SOFTWARE\MemoryScanner\build\MemoryScanner\MemoryScanner_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\source\repos\MY PROJECT\MY SOFTWARE\MemoryScanner\build\MemoryScanner\MemoryScanner_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\source\repos\MY PROJECT\MY SOFTWARE\MemoryScanner\build\MemoryScanner\MemoryScanner_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Administrator\source\repos\MY PROJECT\MY SOFTWARE\MemoryScanner\MemoryScanner\MemoryScanner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Administrator\source\repos\MY PROJECT\MY SOFTWARE\MemoryScanner\MemoryScanner\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{869CCAEC-759E-3FDA-B73E-406B033B7F27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A6A401DF-03CF-392C-A46E-184C0E270FF4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

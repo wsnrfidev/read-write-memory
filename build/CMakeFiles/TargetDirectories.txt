@@ -1,0 +1,3 @@
+C:/Users/Administrator/source/repos/MY PROJECT/MY SOFTWARE/MemoryScanner/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Administrator/source/repos/MY PROJECT/MY SOFTWARE/MemoryScanner/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Administrator/source/repos/MY PROJECT/MY SOFTWARE/MemoryScanner/build/MemoryScanner/CMakeFiles/MemoryScanner.dir
